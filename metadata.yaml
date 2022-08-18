@@ -1,0 +1,29 @@
+_repo: A-climber-in-New-Zealand_68737
+_version: 0.0.1
+contributor:
+  photographer: &id001
+    agent_name: Ross, Malcolm
+    gutenberg_agent_id: '54923'
+    url: http://www.gutenberg.org/2009/agents/54923
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2022-08-13'
+identifiers:
+  gutenberg: '68737'
+language: en
+pgterms:marc904: https://archive.org/details/climberinnewzeal00rossrich/page/n7/mode/2up
+pgterms:marc905: 20220224195037ross
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Fay Dunn, Fiona Holmes and the Online Distributed Proofreading Team
+  at http://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Edward Arnold,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A climber in New Zealand
+url: http://www.gutenberg.org/ebooks/68737
